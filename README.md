@@ -1,2 +1,2 @@
-# jquery-cookie-bar
-# jquery-cookie-bar
+Forked
+http://www.primebox.co.uk/projects/jquery-cookiebar/ 
